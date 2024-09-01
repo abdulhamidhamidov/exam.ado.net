@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HqinXVjK/3epavEnrl5/IKPLT6a2/RRRQyxMH+HfxB4HDewcU9qswNupzcHzJsOfiZHmCFm+XewKzEVAfhA15g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\exzam.ado.net\\shoping\\shoping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
